@@ -11,6 +11,7 @@ Language Python
 
 
 วิธีใช้งาน เรียกใช้ Module 
+- from MST_Cut import sentence 
 - sentence(บทความ,ความยาว,ขอบเขตการคำนวน,เครื่องมือที่ใช้ตัดคำ('newmm','longest'...อื่นๆ))
 
 
