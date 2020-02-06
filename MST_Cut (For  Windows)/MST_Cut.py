@@ -19,7 +19,7 @@ from pythainlp import pos_tag as pt
 
 
 def Modify_Data(tokenize_engine):
-    y = open('StartWord.txt', 'r')
+    y = open(r'StartWord.txt', 'r', encoding="utf8")
     Data = y.read()
     Data_Split = Data.split("|")
     Start_Word_Dicts = {1:[],2:[],3:[],4:[],5:[]}
