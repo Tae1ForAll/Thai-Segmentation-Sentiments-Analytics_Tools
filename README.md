@@ -1,4 +1,4 @@
-# ThaiSentenceCut_Tools
+# Thai Segmentation & Sentiments Analytics_Tools
 Use Condition And Corpus
 Update (เพิ่มฟังชันก์สามารถ Tag Sentiment ได้)********
 
